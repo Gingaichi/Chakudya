@@ -2,6 +2,9 @@
 
 **Chakudya** is a e restaurant web application built with **ReactJS** and **Firebase**. It allows users to explore the restaurant, sign up, and enjoy a smooth, intuitive interface with a touch of style and speed.
 
+**Visit website here:**
+https://chakudya-three.vercel.app/
+
 ---
 
 ## 🔥 Features
